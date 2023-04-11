@@ -32,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rabindra20.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://camo.githubusercontent.com/228947f13ab09791518cc9988ca08dda9632364c633ac9364108821d04005749/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d526162696e64726132302e76697369746f722d6261646765266c6566745f636f6c6f723d626c75652672696768745f636f6c6f723d79656c6c6f77)
 <br/>
 ### Languages and Tools:
 <p>  
