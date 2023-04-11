@@ -81,11 +81,11 @@
 </p>
   <br/>
 <p>
-  <img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabindra20&show_icons=true&locale=en&layout=compact" alt="Rabindra20" />
+  <img width="494" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Rabindra20&show_icons=true&locale=en&layout=compact" alt="Rabindra20" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rabindra20&show_icons=true&locale=en" alt="Rabindra20" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rabindra20&show_icons=true&locale=en" alt="Rabindra20" />
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rabindra20&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
