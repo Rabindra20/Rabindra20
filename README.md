@@ -32,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 ### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rabindra20.visitor-badge&left_color=grey&right_color=yellow)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rabindra20.visitor-badge&left_color=grey&right_color=yellow) -->
 ![visitor badge](https://komarev.com/ghpvc/?username=Rabindra20&color=blue)
 <br/>
 ### Languages and Tools:
