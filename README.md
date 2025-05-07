@@ -15,8 +15,13 @@
 
 ### Connect with me:
 
-<img align="left" alt="Rabindra Raj Sah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
-<img align="left" alt="Rabindra Raj Sah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+<a href="https://twitter.com/rabindra" target="_blank">
+  <img align="left" alt="Rabindra Raj Sah | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rabindra-raj-sah" target="_blank">
+  <img align="left" alt="Rabindra Raj Sah | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<!-- <br clear="left"/> -->
 <br/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -91,5 +96,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rabindra20&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 <br/>
-[twitter]: https://twitter.com/rabindra
-[linkedin]: https://www.linkedin.com/in/rabindra-raj-sah
