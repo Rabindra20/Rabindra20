@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/rabindra" target="_blank">
+<a href="https://x.com/Rabindrarajshah" target="_blank">
   <img align="left" alt="Rabindra Raj Sah | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rabindra-raj-sah" target="_blank">
